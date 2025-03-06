@@ -45,6 +45,10 @@ form button[type="submit"] {
 form button[type="submit"]:hover, .recipe button:hover, .recipe-close-btn:hover{
     background-color: #cf9e33;
 }
+.btn1{
+    background-color: #000;
+    color: wheat;
+}
 .sr-only {
     position: absolute;
     width: 1px;
